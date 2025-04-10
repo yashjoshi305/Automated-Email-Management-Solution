@@ -5,7 +5,8 @@ So, you might be wondering why I picked certain tools and approaches for this em
 
 **To understand the functionality of this Git repository in detail, please refer to the [SOLUTION DETAILS](SOLUTION.md) file.**
 
-**To understand the reasoning behind the design choices and the "why" of this solution, continue reading below **
+**To understand the reasoning behind the design choices and the "why" of this solution, continue reading below**
+
 **Gmail:**
 
 Think of it this way: I was trying to teach my computer to read my own emails first, just to get the hang of things. Since my personal email is on Gmail, it was the easiest way for me to plug in and start pulling emails. I didn't have access to a company Outlook account or the fancy Microsoft Graph API, which would've been the go-to if we were dealing with a real work mailbox. So, Gmail was just the quick and dirty way to get started and show the idea working.
