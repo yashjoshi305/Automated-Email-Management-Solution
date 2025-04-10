@@ -3,7 +3,7 @@
 
 So, you might be wondering why I picked certain tools and approaches for this email sorter thingy. Here's the lowdown, straight from my (digital) whiteboard:
 
-**To understand the functionality of this Git repository in detail, please refer to the [SOLUTION DETAILS](SOLUTION.md) file.**
+**To understand the functionality of this Git repository in detail, please refer to the [SOLUTION DETAILS](Solution.md) file.**
 
 **To understand the reasoning behind the design choices and the "why" of this solution, continue reading below**
 
