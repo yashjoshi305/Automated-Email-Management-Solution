@@ -24,6 +24,8 @@ Okay, so the categories I used ("technology," "News," "Job search," etc.)? Those
 
 **For a Real Company:** The categories would be totally different and based on what your clients actually email about. Think things like "Problem with my order," "Question about my account," "I want to complain," or "Just saying hi" (though maybe we can ignore those!).
 
+**Bonus point** - the configuration json files are not incuded in this repo - because they are my personal files :)
+
 **BigQuery? Sounds Fancy!**
 
 So, for storing all the emails and the computer's guesses about them, I needed a place to put it all. Since I was already playing around with Google stuff (because of the Gmail connection), BigQuery was just a convenient place to dump the data. It's like a giant digital spreadsheet in the cloud that can handle a lot of info.
